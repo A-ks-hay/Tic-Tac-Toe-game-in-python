@@ -1,9 +1,9 @@
 # Tic-Tac-Toe-game-in-python
 A simple and interactive Tic Tac Toe game built in Python. This project allows two players to play Tic Tac Toe in a clean and easy-to-use console interface. It includes turn-based gameplay, win/draw detection, and automatic board updates after each move. Perfect for beginners learning Python, functions, and basic game logic.
 
-# A fully functional Tic Tac Toe game developed using Python, featuring a clean console interface and smooth turn-based gameplay.
+ A fully functional Tic Tac Toe game developed using Python, featuring a clean console interface and smooth turn-based gameplay.
 
-## The project includes:
+# The project includes:
 
 Dynamic 3×3 game board
 
@@ -39,7 +39,62 @@ If a winner is found, tiles turn green and a popup appears
 Game ends automatically
 
 # How to Run
+
+## Step 1: Install Python
+
+Go to official website: https://python.org
+ (search manually)
+
+Download Python 3.x.
+
+Install it → Tick "Add Python to PATH" → Next → Finish.
+
+## Step 2: Download or Clone This Project
+
+Option A: Download ZIP
+
+Click Code (green button)
+
+Choose Download ZIP
+
+Extract folder on your PC
+
+Option B: Clone via Git
+
+git clone https://github.com/your-username/tic-tac-toe-python.git
+
+## Step 3: Open Project Folder
+
+Go to the folder where your tic_tac_toe.py file is located.
+
+## Step 4: Open Terminal / CMD inside the folder
+
+Windows:
+
+Click on folder address bar → type cmd → press Enter
+Mac/Linux:
+
+cd path/to/project/folder
+
+## Step 5: Run the Game
+
+Type the command:
+
 python tic_tac_toe.py
+
+## Step 6: Play the Game
+
+A window will open
+
+Player X starts
+
+Click on any box to place X or O
+
+Winner boxes turn green
+
+Winner popup will appear
+
+Game automatically closes after win
 
 # Project Structure
 tic_tac_toe.py
