@@ -61,7 +61,7 @@ Extract folder on your PC
 
 Option B: Clone via Git
 
-git clone https://github.com/your-username/tic-tac-toe-python.git
+git clone (https://github.com/A-ks-hay/Tic-Tac-Toe-game-in-python)
 
 ## Step 3: Open Project Folder
 
